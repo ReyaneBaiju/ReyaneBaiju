@@ -1,16 +1,45 @@
-Hi everyone.
+<h1 align="center">Hi, I'm Reyane Baiju 👋</h1>
+<p align="center">
+  Aspiring DevOps Engineer | Intern @ Dinoct Solutions | Learning DevSecOps
+</p>
+
+---
+
+🔧 **Currently Working On**: Kubernetes, Docker, DevSecOps Tools  
+🌱 **Learning & Exploring**: Azure, Terraform, CI/CD, Cloud Security  
 
 
-**ReyaneBaiju/ReyaneBaiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on Kubernetes
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a DevOps Intern at Dinoct Solutions, passionate about cloud-native technologies and automation. After a non-traditional path and a few years away from tech, I came back strong—setting up stacks, securing servers, and scripting automation. I’ve documented everything I’ve learned along the way and plan to keep sharing as I grow.
 
+---
+
+### 🧰 Tools I've Explored
+
+- **Cloud**: AWS, Azure  
+- **Containers**: Docker  
+- **Orchestration**: Kubernetes (GKE)  
+- **Infrastructure as Code**: Terraform, Ansible  
+- **CI/CD**: GitLab CI  
+- **Monitoring & Security**: Grafana, Wazuh, Lynis, Fail2Ban, Trivy  
+- **Servers**: Apache, NGINX, IIS, Tomcat  
+- **Operating Systems**: Ubuntu, CentOS, Windows Server  
+- **Scripting**: Bash, PowerShell, Python (Basics)  
+- **VPN & Mail**: OpenVPN, Postfix  
+
+
+---
+
+
+### 💬 Let's Connect
+
+- 📧 Email: [your.email@example.com]  
+- 🌐 LinkedIn: [linkedin.com/in/your-profile](#)  
+- 📁 Portfolio (Coming soon)
+
+---
+
+Thanks for stopping by! Feel free to explore, fork, or say hi 😄
