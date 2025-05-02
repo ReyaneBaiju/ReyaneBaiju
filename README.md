@@ -13,8 +13,7 @@
 
 ### 🚀 About Me
 
-I'm a DevOps Intern at Dinoct Solutions, passionate about cloud-native technologies and automation. After a non-traditional path and a few years away from tech, I came back strong—setting up stacks, securing servers, and scripting automation. I’ve documented everything I’ve learned along the way and plan to keep sharing as I grow.
-
+I'm a DevOps Intern at Dinoct Solutions, passionate about cloud-native technologies and automation. 
 ---
 
 ### 🧰 Tools I've Explored
